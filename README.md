@@ -7,21 +7,37 @@ Repositório de estudos e atividades efetuados durante o Bootcamp Potência Tech
 > 91 horas
 
 ***
-**Serão listados apenas as máterias que tiverem atividades práticas.**
+
+❗ **Serão listados apenas as máterias que tiverem atividades práticas.**
+
 ***
 
-# Cursos
+## ⚪ Cursos
 
-* Aprendendo a Sintaxe Java 
+***
+
+### **Conhecendo a Linguagem de Programação Java**
+
+* Aprendendo a Sintaxe Java
 * Estruturas de Repetição e Arrays em Java
 * Entendendo Métodos em Java
+
+### **Programação Orientada a Objetos com Java**
+
 * Programação Orientada a Objetos
 * Trabalahndo com Collections Java
 * Tratamento de Exceções em Java
 
-[Link](https://www.markdownguide.org/basic-syntax/)
+### **Ganhando Produtividade com Spring Framework**
 
-# Desafios
+* Gerenciamento de Dependências e Build em Java com Maven
+* Criando uma API REST Documenta com Spring Web e Swagger
+
+[Link para o coteúdo](https://github.com/jaohab/dio-potencia-tech-powered-by-iFood/tree/main/src/dio/cursos)
+
+## ⚪ Desafios
+
+***
 
 ### **Básio**
 
@@ -31,7 +47,7 @@ Repositório de estudos e atividades efetuados durante o Bootcamp Potência Tech
 * FizzBuzz
 * Busca Sequencial
 
-[Link](https://www.markdownguide.org/basic-syntax/)
+[Link para o coteúdo](https://github.com/jaohab/dio-potencia-tech-powered-by-iFood/tree/main/src/dio/desafios/basico)
 
 ### **Intermediário**
 
@@ -41,11 +57,11 @@ Repositório de estudos e atividades efetuados durante o Bootcamp Potência Tech
 * Classificando Matrizes
 * Fatorial Desajeitado
 
-[Link](https://www.markdownguide.org/basic-syntax/)
+[Link para o coteúdo](https://github.com/jaohab/dio-potencia-tech-powered-by-iFood/tree/main/src/dio/desafios/intermediario)
 
-### **GitHub** 
+### **GitHub**
 
-[Link](https://www.markdownguide.org/basic-syntax/)
+[Link para o coteúdo](https://github.com/jaohab/dio-potencia-tech-powered-by-iFood/tree/main/src/dio/desafios/github)
 
 ### **Abstraindo um Bootcamp Usando Orientação a Objetos em Java**
 
