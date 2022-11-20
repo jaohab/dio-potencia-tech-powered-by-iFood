@@ -69,4 +69,4 @@ Repositório de estudos e atividades efetuados durante o Bootcamp Potência Tech
 
 ### **Explorando Padrões de Projetos na Prática com Java**
 
-[Link](https://www.markdownguide.org/basic-syntax/)
+[Link para o coteúdo](https://github.com/jaohab/dio-potencia-tech-powered-by-iFood/tree/main/src/dio/desafios/projetoPadroes)
