@@ -65,7 +65,7 @@ Repositório de estudos e atividades efetuados durante o Bootcamp Potência Tech
 
 ### **Abstraindo um Bootcamp Usando Orientação a Objetos em Java**
 
-[Link](https://www.markdownguide.org/basic-syntax/)
+[Link para o coteúdo](https://github.com/jaohab/dio-potencia-tech-powered-by-iFood/tree/main/src/dio/desafios/bootcamp)
 
 ### **Explorando Padrões de Projetos na Prática com Java**
 
