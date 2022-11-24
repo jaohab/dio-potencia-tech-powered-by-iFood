@@ -1,4 +1,4 @@
-package dio.cursos.collections;
+package dio.cursos.collections.lists;
 
 import java.util.ArrayList;
 //import java.util.Arrays;
