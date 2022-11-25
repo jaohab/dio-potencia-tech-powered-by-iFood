@@ -10,7 +10,10 @@ import java.util.List;
 class ExemploList {
 
     public static void main(String[] args) {
-        
+
+        // Dada uma lista com 7 notas de um aluno (7, 8.5, 9.3, 5, 7, 0, 3.6), faça:
+
+
         // List notas = new ArrayList<>();                                      //Antes do Java 5 
 
         // List<Double> notas = new ArrayList<>();                              //Generics (jdk 5) - Diamond Operator (jdk 7)
@@ -19,14 +22,18 @@ class ExemploList {
 
         // List<Double> notas = new ArrayList<>(Arrays.asList(7d, 8.5, 9.3, 5d, 7d, 0d, 3.6));
 
-        // List<Double> notas = Arrays.asList(7d, 8.5, 9.3, 5d, 7d, 0d, 3.6);   //Limitado, não suporta adicionar novos elementos
-        // notas.add(10d);
-        // System.out.println(notas);
+        /* 
+        List<Double> notas = Arrays.asList(7d, 8.5, 9.3, 5d, 7d, 0d, 3.6);   //Limitado, não suporta adicionar novos elementos
+        notas.add(10d);
+        System.out.println(notas);
+        */
 
-        // List<Double> notas = List.of(7d, 8.5, 9.3, 5d, 7d, 0d, 3.6);            //Lista imutável
-        // notas.add(10d);
-        // notas.remove(5d);
-        // System.out.println(notas);
+        /*
+        List<Double> notas = List.of(7d, 8.5, 9.3, 5d, 7d, 0d, 3.6);            //Lista imutável
+        notas.add(10d);
+        notas.remove(5d);
+        System.out.println(notas);
+        */
 
 
         System.out.println("Crie uma lista e adicione as sete notas: ");
